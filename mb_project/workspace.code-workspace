@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "..\\posts"
+	}
+],
+  "settings": {
+    "git.ignoreLimitWarning": true
+  }
+}
